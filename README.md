@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rohitdaddekar
-🚀 Passionate Data Scientist | Machine Learning Enthusiast | Data Analytics
+🚀 Passionate Data Scientist | Generative AI Engineer | Data Analytics
 
 Greetings! 👋 I am a dedicated Data Scientist with over 6 years of professional experience, including around 3 years in the dynamic realm of Data Science and Data Analytics. My journey has been fueled by a profound curiosity and a relentless pursuit of knowledge in emerging technologies.
 
